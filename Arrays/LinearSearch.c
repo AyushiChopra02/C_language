@@ -9,7 +9,7 @@ int main(){
         if(arr[i]==x){
             flag= true; //true means present
             index=i;
-            break;
+            breaks;
         }
     }
     if(flag==false){
